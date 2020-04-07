@@ -1,0 +1,4 @@
+GUE SKRIPSI
+- Konsisten/fokus untuk membuat web skripsi
+- Membuat platfom untuk tampilan menu
+- Membuat forum diskusi
